@@ -1,6 +1,8 @@
 # DIKWP NephroCarePath OS
 
-**DIKWP NephroCarePath OS** is a kidney disease hospital triage, treatment-preparation, dialysis/transplant preparation, rehabilitation, follow-up and AI governance prototype.
+Created by Yucong Duan (段玉聪).
+
+DIKWP NephroCarePath OS is a kidney disease hospital triage, treatment-preparation, dialysis/transplant preparation, rehabilitation, follow-up and AI governance prototype.
 
 It is designed for nephrology hospitals, CKD clinics, dialysis centers, transplant programs, primary-to-specialty referral networks and education teams.
 
